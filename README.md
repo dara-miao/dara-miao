@@ -12,9 +12,9 @@ PM at early-stage startups. Deal Partner at [Boardy Ventures](https://boardy.com
 
 | Project | What I did | Impact |
 |---|---|---|
-| **Nara** (healthcare AI) | Built outbound GTM from zero — Clay, Lemlist, HubSpot | Full pipeline architecture |
+| **Nara** (healthcare AI) | Built outbound GTM from zero via Clay, Lemlist, HubSpot | Full pipeline architecture |
 | **Ditto** (consumer social) | Led activation & retention for USC market; 20-person ambassador team | 300+ downloads/month |
-| **Revisent** (sustainability tech) | PM'd full product sprint — pivoted CV approach, drove pilots | 3 deployments, 45% contamination reduction |
+| **Revisent** (sustainability tech) | PM'd full product sprint: pivoted CV approach, drove pilots | 3 deployments, 45% contamination reduction |
 | **TroyLabs** | Selected 1 of 3 PMs from 130 applicants; won Launch '25 | $1,500 + first place |
 | **Rho × USC Founders Table** | Sourced, curated, and ran 12-person private founder dinner | Across 5 USC entrepreneurship clubs |
 | **Loopd** (SEP Hackathon) | PM + GTM strategy for AI study tool | 1st place + $2,000 |
