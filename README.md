@@ -4,7 +4,7 @@
 
 I build the commercial layer for technically hard companies.
 
-PM at early-stage startups. Deal Partner at [Boardy Ventures](https://boardy.com) (world's first AI-led fund). Head of Growth at TroyLabs. Organizer of curated founder rooms. TEDx speaker at 16.
+PM at early-stage startups. Deal Partner at Boardy Ventures (world's first AI-led fund). Head of Growth at TroyLabs. Organizer of curated founder rooms. TEDx speaker at 16.
 
 ---
 
