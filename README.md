@@ -2,7 +2,7 @@
 
 **Business and AI at USC Marshall**
 
-I do GTM at [MindFort AI (YC X25)](https://www.mindfort.ai/), where AI agents find and patch vulnerabilities before attackers do. Backed by Y Combinator and Soma Capital.
+I do GTM at [MindFort AI](https://www.mindfort.ai/), where AI agents find and patch vulnerabilities before attackers do. Backed by Y Combinator and Soma Capital.
 
 During the school year, I am a product manager at [TroyLabs](https://troylabs.vc/), USC's startup accelerator, where I PM'd for portcos like [Nara](https://www.withnara.com/) and [Revisent](https://revisent.com/), winning [Launch '25](https://www.linkedin.com/posts/dara-miao_startuplaunch-startupaccelerator-win-activity-7412530621924929536-3ROi) and driving 3 pilot deployments and a 35% accuracy improvement.
 
