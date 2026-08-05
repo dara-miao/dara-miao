@@ -1,30 +1,11 @@
 # Dara Miao
 
-**GTM @ MindFort (YC X25)** — USC Marshall '29 · Business Administration & AI · Los Angeles
+**Business and AI at USC Marshall**
 
-I build the commercial layer for technically hard companies. Currently exploring physical AI. Previously took startups from 1→100 by combining growth engineering with community building.
+I do GTM at [MindFort AI (YC X25)](https://www.mindfort.ai/), where AI agents find and patch vulnerabilities before attackers do. Backed by Y Combinator and Soma Capital.
 
-GTM at MindFort (YC X25). Media at USC Rocket Propulsion Lab. Organizer of curated founder rooms. TEDx speaker at 16.
+During the school year, I am a product manager at [TroyLabs](https://troylabs.vc/), USC's startup accelerator, where I PM'd for portcos like [Nara](https://www.withnara.com/) and [Revisent](https://revisent.com/), winning [Launch '25](https://www.linkedin.com/posts/dara-miao_startuplaunch-startupaccelerator-win-activity-7412530621924929536-3ROi) and driving 3 pilot deployments and a 35% accuracy improvement.
 
----
+I'm exploring VC as a summer fellow at [Dorm Room Fund](https://www.dormroomfund.com/); sending rockets to space through [USC Rocket Propulsion Laboratory](https://www.uscrpl.com/); and running [USC Club Golf](https://engage.usc.edu/clubgolf/home/) as VP.
 
-## Writing + presence
-
-- [LinkedIn](https://linkedin.com/in/dara-miao) — building in public
-- [TikTok](https://www.tiktok.com/@dara.miao) — startup, product, and student content
-- [Instagram](https://www.instagram.com/dara.miao/) — startup, product, and student content
-- [X](https://x.com/DaraMiaoX) — tech thoughts
-
----
-
-## Currently
-
-- **MindFort AI (YC X25)** — GTM (AI agents that find and patch vulnerabilities before attackers do)
-- **USC Rocket Propulsion Laboratory** — Media (documenting the first student team to send a rocket to space)
-- **USC Club Golf** — Vice President (50+ members)
-- **Dorm Room Fund** — Frontier Summer Track Fellow (learning to invest in student founders)
-- **USC Marshall** — full-time student, Business Administration + AI minor
-
----
-
-📬 daramiao19@gmail.com · Los Angeles, CA
+**[daramiao.com](https://daramiao.com)** · [LinkedIn](https://www.linkedin.com/in/dara-miao/) · [Instagram](https://www.instagram.com/dara.miao/) · [X](https://x.com/DaraMiaoX) · daramiao19@gmail.com
