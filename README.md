@@ -1,11 +1,68 @@
 # Dara Miao
 
-**Business and AI at USC Marshall**
+**Product × Venture** — USC Marshall '29 · Business Analytics & AI · Los Angeles
 
-I do GTM at [MindFort AI](https://www.mindfort.ai/), where AI agents find and patch vulnerabilities before attackers do. Backed by Y Combinator and Soma Capital.
+I build the commercial layer for technically hard companies.
 
-During the school year, I am a product manager at [TroyLabs](https://troylabs.vc/), USC's startup accelerator, where I PM'd for portcos like [Nara](https://www.withnara.com/) and [Revisent](https://revisent.com/), winning [Launch '25](https://www.linkedin.com/posts/dara-miao_startuplaunch-startupaccelerator-win-activity-7412530621924929536-3ROi) and driving 3 pilot deployments and a 35% accuracy improvement.
+PM at early-stage startups. Deal Partner at Boardy Ventures (world's first AI-led fund). Head of Growth at TroyLabs. Organizer of curated founder rooms. TEDx speaker at 16.
 
-I'm exploring VC as a summer fellow at [Dorm Room Fund](https://www.dormroomfund.com/); sending rockets to space through [USC Rocket Propulsion Laboratory](https://www.uscrpl.com/); and running [USC Club Golf](https://engage.usc.edu/clubgolf/home/) as VP.
+---
 
-**[daramiao.com](https://daramiao.com)** · [LinkedIn](https://www.linkedin.com/in/dara-miao/) · [Instagram](https://www.instagram.com/dara.miao/) · [X](https://x.com/DaraMiaoX) · daramiao19@gmail.com
+## What I've shipped
+
+| Project | What I did | Impact |
+|---|---|---|
+| **Nara** (healthcare AI) | Built outbound GTM from zero via Clay, Lemlist, HubSpot | Full pipeline architecture |
+| **Ditto** (consumer social) | Led activation & retention for USC market; 20-person ambassador team | 300+ downloads/month |
+| **Revisent** (sustainability tech) | PM'd full product sprint: pivoted CV approach, drove pilots | 3 deployments, 45% contamination reduction |
+| **TroyLabs** | Selected 1 of 3 PMs from 130 applicants; won Launch '25 | $1,500 + first place |
+| **Rho × USC Founders Table** | Sourced, curated, and ran 12-person private founder dinner | Across 5 USC entrepreneurship clubs |
+| **Loopd** (SEP Hackathon) | PM + GTM strategy for AI study tool | 1st place + $2,000 |
+
+---
+
+## What I'm building toward
+
+- GTM and growth at pre-seed / seed companies where the distribution question is unsolved
+- Founder ecosystem infrastructure — curated rooms, community-led distribution
+- Early-stage investing (sourcing + conviction-building)
+
+---
+
+## Stack I work in
+
+`Clay` `Lemlist` `HubSpot` `Figma` `Python` `SQL (learning)` `Agile / Scrum`
+
+---
+
+## Writing + presence
+
+- [LinkedIn](https://linkedin.com/in/dara-miao) — building in public, 1,900+ followers
+- TikTok / Instagram — 5M+ aggregate views across startup, product, and student content
+
+---
+
+## Currently
+
+- **Boardy Ventures** — Deal Partner (meeting founders pre-fundraise)
+- **TroyLabs** — Head of Growth (scaling SoCal's startup accelerator)
+- **Nara + Ditto** — PM and GTM
+- **USC Marshall** — full-time student, AI Applications + Computer Programming minors
+
+---
+
+📬 daramiao19@gmail.com · Los Angeles, CA
+<!--
+**dara-miao/dara-miao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
