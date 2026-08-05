@@ -1,23 +1,8 @@
 # Dara Miao
 
-USC Marshall · Business Analytics & AI · Los Angeles
+USC Marshall · Los Angeles
 
-GTM at MindFort. Previously product and growth at a few early-stage startups.
-
----
-
-## Currently
-
-- MindFort — GTM
-- USC Rocket Propulsion Lab — media
-- USC Club Golf — VP
-- Dorm Room Fund — Frontier fellow
-
----
-
-## Past work
-
-Nara · TroyLabs · Revisent · Ditto
+MindFort · Dorm Room Fund · USC Rocket Propulsion Lab
 
 ---
 
