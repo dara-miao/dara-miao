@@ -11,8 +11,8 @@ GTM at MindFort (YC X25). Media at USC Rocket Propulsion Lab. Organizer of curat
 ## Writing + presence
 
 - [LinkedIn](https://linkedin.com/in/dara-miao) — building in public
-- [TikTok](https://www.tiktok.com/@dar.mail) — startup, product, and student content
-- [Instagram](https://www.instagram.com/dar.mail/) — startup, product, and student content
+- [TikTok](https://www.tiktok.com/@dara.miao) — startup, product, and student content
+- [Instagram](https://www.instagram.com/dara.miao/) — startup, product, and student content
 - [X](https://x.com/DaraMiaoX) — tech thoughts
 
 ---
