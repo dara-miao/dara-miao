@@ -8,13 +8,6 @@ GTM at MindFort (YC X25). Organizer of curated founder rooms. TEDx speaker at 16
 
 ---
 
-
-## Stack I work in
-
-`Clay` `Lemlist` `HubSpot` `Figma` `Python` `SQL (learning)` `Agile / Scrum`
-
----
-
 ## Writing + presence
 
 - [LinkedIn](https://linkedin.com/in/dara-miao) — building in public, 3,500+ followers
