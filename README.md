@@ -8,37 +8,11 @@ GTM at MindFort (YC X25). Media at USC Rocket Propulsion Lab. Organizer of curat
 
 ---
 
-## What I've shipped
-
-| Project | What I did | Impact |
-|---|---|---|
-| **Nara** (healthcare AI) | Product — AI-powered OASIS documentation & EMR integration; built outbound GTM via Clay, Lemlist, HubSpot | Full pipeline architecture + new product opportunities from research & CD |
-| **Ditto** (consumer social) | Led activation & retention for USC market; 20-person ambassador team | 300+ downloads/month |
-| **Revisent** (sustainability tech) | PM'd full product sprint: pivoted CV approach, drove pilots | 3 deployments, 35% accuracy improvement |
-| **TroyLabs** | Selected 1 of 3 PMs from 130 applicants (2% acceptance); won Launch '25 | $1,500 + first place |
-| **Rho × USC Founders Table** | Sourced, curated, and ran 12-person private founder dinner | Across 5 USC entrepreneurship clubs |
-| **Loopd** (SEP Hackathon) | PM + GTM strategy for AI study tool | 1st place + $2,000 |
-
----
-
-## What I'm building toward
-
-- GTM and growth at pre-seed / seed companies where the distribution question is unsolved
-- Founder ecosystem infrastructure — curated rooms, community-led distribution
-- Early-stage investing (sourcing + conviction-building)
-
----
-
-## Stack I work in
-
-`Clay` `Lemlist` `HubSpot` `Figma` `Python` `SQL (learning)` `Agile / Scrum`
-
----
-
 ## Writing + presence
 
 - [LinkedIn](https://linkedin.com/in/dara-miao) — building in public
-- TikTok / Instagram — startup, product, and student content
+- [TikTok](https://www.tiktok.com/@dar.mail) — startup, product, and student content
+- [Instagram](https://www.instagram.com/dar.mail/) — startup, product, and student content
 - [X](https://x.com/DaraMiaoX) — tech thoughts
 
 ---
