@@ -10,4 +10,4 @@ I spend my school year PMing for startups at [TroyLabs](https://troylabs.vc/); s
 
 As for my career, I worked on autonomous AI security agents at [MindFort](https://www.mindfort.ai/) (YC), human-agent interaction at [Oasis](https://joinoasis.com/) (a16z), and learned about VC as a [Dorm Room Fund](https://www.dormroomfund.com/) summer fellow.
 
-**[daramiao.com](https://daramiao.com)** · [LinkedIn](https://www.linkedin.com/in/dara-miao/) · [Instagram](https://www.instagram.com/dara.miao/) · [X](https://x.com/DaraMiaoX) · daramiao19@gmail.com
+**[daramiao.com](https://daramiao.com)**
