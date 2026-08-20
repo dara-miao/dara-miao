@@ -1,5 +1,7 @@
 # Dara Miao
 
+Hi, I'm Dara
+
 I've worked on AI products across cybersecurity, healthcare, consumer social, and sustainability.
 
 At [USC Marshall](https://www.marshall.usc.edu/), I study business with a focus on AI.
