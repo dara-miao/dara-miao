@@ -1,6 +1,6 @@
 # Dara Miao
 
-Hi, I'm Dara
+Hi, I'm Dara.
 
 I've worked on AI products across cybersecurity, healthcare, consumer social, and sustainability.
 
