@@ -1,15 +1,11 @@
 # Dara Miao
 
-Hi, I'm Dara.
+I like building things for the real world: robot simulations, user-focused products, and a relentless drive.
 
-Currently learning Physical AI by working on autonomous robots at USC.
+Currently learning Physical AI by building simulation environments for autonomous robots at USC, where I study business and computer science. Before that, I worked on product at MindFort (YC X25) and Oasis (a16z speedrun).
 
-I've worked on AI products across cybersecurity, healthcare, and sustainability.
+### Around USC
 
-At USC Marshall, I study business with a focus on AI.
+Autonomy at Advanced Robotic Combat · Software at Autonomous Underwater Vehicles · PM at TroyLabs · Director at Global Student Startup Competition · Director of Partnerships at VC Academy · Nexus core team · Rocket Propulsion Lab media team
 
-I spend my school year PMing for startups at TroyLabs; sending rockets to space at Rocket Propulsion Lab; building SoCal's first intercollegiate founder community; and of course, keeping up my love for the game of golf.
-
-As for my career, I worked on autonomous AI security agents at MindFort (YC), human-agent interaction at Oasis (a16z), and learned about VC as a Dorm Room Fund summer fellow.
-
-**[daramiao.com](https://daramiao.com)**
+**[daramiao.com](https://daramiao.com)** · [LinkedIn](https://www.linkedin.com/in/dara-miao/) · [X](https://x.com/DaraMiaoX)
