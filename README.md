@@ -6,6 +6,6 @@ Currently learning Physical AI by building simulation environments for autonomou
 
 ### My involvements
 
-Autonomy at Advanced Robotic Combat · Software at Autonomous Underwater Vehicles · PM at TroyLabs · Director at Global Student Startup Competition · Director of Partnerships at VC Academy · Nexus core team · Rocket Propulsion Lab media team
+Advanced Robotic Combat (Autonomous Team) · Autonomous Underwater Vehicles (Autonomy + Sims) · TroyLabs (Product Manager / Prev. Head of Growth) · Global Student Startup Competition (Competition Strategy / SoCal Director) · VC Academy (Director of Partnerships) · Nexus (Core team) · Rocket Propulsion Lab (Media team)
 
 **[daramiao.com](https://daramiao.com)** 
